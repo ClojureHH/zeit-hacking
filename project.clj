@@ -7,6 +7,6 @@
                  [http-kit "2.1.18"]
                  [cheshire "5.5.0"]
                  [gorillalabs/config "1.0.1"]
-                 ]
+                 [gorilla-renderable "2.0.0"]]
   :plugins [[lein-gorilla "0.3.4"]]
   )
