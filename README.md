@@ -15,7 +15,7 @@ Then run
 
 and point your browser to
 
-[http://127.0.0.1:8999/worksheet.html?filename=zeit-hacking-worksheet.clj](http://127.0.0.1:8999/worksheet.html?filename=zeit-hacking-worksheet.clj)
+[http://127.0.0.1:8999/worksheet.html?filename=ws/zeit-hacking-worksheet.clj](http://127.0.0.1:8999/worksheet.html?filename=ws/zeit-hacking-worksheet.clj)
 
 
 ## License
