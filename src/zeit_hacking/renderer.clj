@@ -11,6 +11,6 @@
   render/Renderable
   (render [self]
     {:type    :html
-     :content (format "<b>%1$s<b/>" (:content self))
+     :content (format "<h3>%1$s<h3/>%2$s" (:title (:content self)) (:snippet (:content self)))
      :value   (pr-str self)}
     ))
